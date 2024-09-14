@@ -1,0 +1,10 @@
+{
+    "encoding": "utf-8",
+    "shell_cmd": "g++ -Wall -Wextra -std=c++17 -O2 -DLOCAL -I$HOME/algo -Wfatal-errors -Wshadow -Wformat=2 -Wconversion -Winvalid-pch \"${file}\" -o \"${file_path}/${file_base_name}\" && xterm -e bash -c \"'${file_path}/${file_base_name}'; read -p '\nPress any key to continue...'\"",
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "working_dir": "$file_path",
+    "selector": "source.cpp, source.cc",
+}
+
+     
+

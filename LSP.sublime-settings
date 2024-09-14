@@ -1,0 +1,23 @@
+{
+  "clients": {
+    "clangd": {
+      "enabled": true,
+      "command": ["clangd"],
+      "scopes": ["source.c", "source.c++"],
+      "syntaxes": [
+        "Packages/C++/C.sublime-syntax",
+        "Packages/C++/C++.sublime-syntax"
+      ],
+      "languageId": "cpp",
+      "settings": {
+        "clangd": {
+          "arguments": [
+            "--clang-tidy",
+            "--background-index",
+            "--completion-style=detailed"
+          ]
+        }
+      }
+    }
+  }
+}

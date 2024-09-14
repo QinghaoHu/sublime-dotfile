@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ayu",
+		"C++ Snippets",
+		"CppFastOlympicCoding",
+		"Default File Type",
+		"Dracula Color Scheme",
+		"EasyClangComplete",
+		"gruvbox",
+		"Gruvbox Material Theme",
+		"Hide Menu",
+		"LSP",
+		"LSP-clangd",
+		"Package Control",
+		"PackageResourceViewer",
+		"RainbowBrackets",
+		"SublimeAStyleFormatter",
+		"Theme - Adaptify",
+		"Theme - Monokai Pro",
+		"Theme - Soda",
+		"Theme - SodaSeti",
+	],
+}

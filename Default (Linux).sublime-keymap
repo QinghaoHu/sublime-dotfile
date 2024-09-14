@@ -1,0 +1,5 @@
+[
+    { "keys": ["f9"], "command": "build" },
+    { "keys": ["f7"], "command": "sort_lines", "args": {"case_sensitive": false} },
+    {"keys": ["ctrl+shift+x"], "command": "Listen_to_Competitive_companion"},
+]

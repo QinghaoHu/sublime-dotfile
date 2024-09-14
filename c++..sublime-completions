@@ -1,0 +1,21 @@
+{
+    "scope": "source.c++",  // 将自动补全限定为C++代码
+    "completions": [
+        { "trigger": "queue", "contents": "queue" },
+        { "trigger": "priority_queue", "contents": "priority_queue" },
+        { "trigger": "stack", "contents": "stack" },
+        { "trigger": "map", "contents": "map" },
+        { "trigger": "set", "contents": "set" },
+        { "trigger": "bitset", "contents": "bitset" },
+        { "trigger": "deque", "contents": "deque" },
+        { "trigger": "greater", "contents": "greater" },
+        { "trigger": "less", "contents": "less" },
+        { "trigger": "return", "contents": "return" },
+        { "trigger": "lower_bound", "contents": "lower_bound" },
+        { "trigger": "upper_bound", "contents": "upper_bound" },
+        { "trigger": "array", "contents": "array" },
+        { "trigger": "begin", "contents": "begin" },
+        { "trigger": "end", "contents": "end" },
+        { "trigger": "vector", "contents": "vector" },
+    ]
+}

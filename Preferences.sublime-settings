@@ -1,0 +1,42 @@
+{
+	//Tab自动转换为空格
+    "translate_tabs_to_spaces": false,
+
+    //缩进宽度
+    "tab_size": 4,
+
+    //行高亮
+    "highlight_line": false,
+
+    //保存时自动在文件尾增加换行
+    "trim_trailing_white_space_on_save": true,
+
+    //在选择时查找自动只查找选择范围
+    "auto_find_in_selection": true,
+
+    //禁用了OI中不太可能用到的插件，可以自己调整
+    "ignored_packages": [
+        "ActionScript", "AppleScript", "ASP", "ayu", "Batch File",
+        "C#", "C++ Snippets", "Clojure", "CppFastOlympicCoding", "CSS", "D",
+        "Diff", "EasyClangComplete", "Erlang", "FastOlympicCodingHook", "Git Formats", "Go",
+        "Graphviz", "Groovy", "Haskell", "HTML", "LaTeX",
+        "Lisp", "LSP", "LSP-clangd", "Lua", "Makefile",
+        "Matlab","Objective-C", "OCaml", "Perl", "PHP",
+        "Python", "R", "Rails", "RainbowBrackets", "RestructuredText", "Ruby",
+        "Rust",
+        "Scala",
+        "ShellScript",
+        "SQL",
+        "TCL",
+        "Textile",
+        "Vintage",
+    ],
+
+    //相对行号，可配合 Vintage 插件快速跳转
+    // "relative_line_numbers": true,
+	"font_face": "Hack Nerd Font Mono",
+	"font_size": 9,
+    "index_files": true,
+    "color_scheme": "kanagawa.sublime-color-scheme",
+    "theme": "Soda Dark 3.sublime-theme",
+}
